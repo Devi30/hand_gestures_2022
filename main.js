@@ -1,0 +1,1 @@
+function start(https://teachablemachine.withgoogle.com/models/Z3pCFdGiO/)
